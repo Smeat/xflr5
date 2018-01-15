@@ -26,6 +26,7 @@
 #include <QHBoxLayout>
 #include <QFontDatabase>
 #include <QtDebug>
+#include <QShowEvent>
 
 #include <gui_params.h>
 

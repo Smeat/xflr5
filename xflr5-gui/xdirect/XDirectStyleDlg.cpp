@@ -25,7 +25,7 @@
 #include "viewwidgets/oppointwidget.h"
 #include <QGridLayout>
 #include <QLabel>
-
+#include <QKeyEvent>
 
 
 XDirectStyleDlg::XDirectStyleDlg(QWidget *pParent) : QDialog(pParent)
